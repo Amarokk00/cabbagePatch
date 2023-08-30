@@ -1,0 +1,645 @@
+fileFormatVersion: 2
+guid: a69c156307ecc3c4280dee54987aaaa2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fantasy Crops_scaled_5x_pngcrushed_0
+    21300002: Fantasy Crops_scaled_5x_pngcrushed_1
+    21300004: Fantasy Crops_scaled_5x_pngcrushed_2
+    21300006: Fantasy Crops_scaled_5x_pngcrushed_3
+    21300008: Fantasy Crops_scaled_5x_pngcrushed_4
+    21300010: Fantasy Crops_scaled_5x_pngcrushed_5
+    21300012: Fantasy Crops_scaled_5x_pngcrushed_6
+    21300014: Fantasy Crops_scaled_5x_pngcrushed_7
+    21300016: Fantasy Crops_scaled_5x_pngcrushed_8
+    21300018: Fantasy Crops_scaled_5x_pngcrushed_9
+    21300020: Fantasy Crops_scaled_5x_pngcrushed_10
+    21300022: Fantasy Crops_scaled_5x_pngcrushed_11
+    21300024: Fantasy Crops_scaled_5x_pngcrushed_12
+    21300026: Fantasy Crops_scaled_5x_pngcrushed_13
+    21300028: Fantasy Crops_scaled_5x_pngcrushed_14
+    21300030: Fantasy Crops_scaled_5x_pngcrushed_15
+    21300032: Fantasy Crops_scaled_5x_pngcrushed_16
+    21300034: Fantasy Crops_scaled_5x_pngcrushed_17
+    21300036: Fantasy Crops_scaled_5x_pngcrushed_18
+    21300038: Fantasy Crops_scaled_5x_pngcrushed_19
+    21300040: Fantasy Crops_scaled_5x_pngcrushed_20
+    21300042: Fantasy Crops_scaled_5x_pngcrushed_21
+    21300044: Fantasy Crops_scaled_5x_pngcrushed_22
+    21300046: Fantasy Crops_scaled_5x_pngcrushed_23
+    21300048: Fantasy Crops_scaled_5x_pngcrushed_24
+    21300050: Fantasy Crops_scaled_5x_pngcrushed_25
+    21300052: Fantasy Crops_scaled_5x_pngcrushed_26
+    21300054: Fantasy Crops_scaled_5x_pngcrushed_27
+    21300056: Fantasy Crops_scaled_5x_pngcrushed_28
+    21300058: Fantasy Crops_scaled_5x_pngcrushed_29
+    21300060: Fantasy Crops_scaled_5x_pngcrushed_30
+    21300062: Fantasy Crops_scaled_5x_pngcrushed_31
+    21300064: Fantasy Crops_scaled_5x_pngcrushed_32
+    21300066: Fantasy Crops_scaled_5x_pngcrushed_33
+    21300068: Fantasy Crops_scaled_5x_pngcrushed_34
+    21300070: Fantasy Crops_scaled_5x_pngcrushed_35
+    21300072: Fantasy Crops_scaled_5x_pngcrushed_36
+    21300074: Fantasy Crops_scaled_5x_pngcrushed_37
+    21300076: Fantasy Crops_scaled_5x_pngcrushed_38
+    21300078: Fantasy Crops_scaled_5x_pngcrushed_39
+    21300080: Fantasy Crops_scaled_5x_pngcrushed_40
+    21300082: Fantasy Crops_scaled_5x_pngcrushed_41
+    21300084: Fantasy Crops_scaled_5x_pngcrushed_42
+    21300086: Fantasy Crops_scaled_5x_pngcrushed_43
+    21300088: Fantasy Crops_scaled_5x_pngcrushed_44
+    21300090: Fantasy Crops_scaled_5x_pngcrushed_45
+    21300092: Fantasy Crops_scaled_5x_pngcrushed_46
+    21300094: Fantasy Crops_scaled_5x_pngcrushed_47
+    21300096: Fantasy Crops_scaled_5x_pngcrushed_48
+    21300098: Fantasy Crops_scaled_5x_pngcrushed_49
+    21300100: Fantasy Crops_scaled_5x_pngcrushed_50
+    21300102: Fantasy Crops_scaled_5x_pngcrushed_51
+    21300104: Fantasy Crops_scaled_5x_pngcrushed_52
+    21300106: Fantasy Crops_scaled_5x_pngcrushed_53
+    21300108: Fantasy Crops_scaled_5x_pngcrushed_54
+    21300110: Fantasy Crops_scaled_5x_pngcrushed_55
+    21300112: Fantasy Crops_scaled_5x_pngcrushed_56
+    21300114: Fantasy Crops_scaled_5x_pngcrushed_57
+    21300116: Fantasy Crops_scaled_5x_pngcrushed_58
+    21300118: Fantasy Crops_scaled_5x_pngcrushed_59
+    21300120: Fantasy Crops_scaled_5x_pngcrushed_60
+    21300122: Fantasy Crops_scaled_5x_pngcrushed_61
+    21300124: Fantasy Crops_scaled_5x_pngcrushed_62
+    21300126: Fantasy Crops_scaled_5x_pngcrushed_63
+    21300128: Fantasy Crops_scaled_5x_pngcrushed_64
+    21300130: Fantasy Crops_scaled_5x_pngcrushed_65
+    21300132: Fantasy Crops_scaled_5x_pngcrushed_66
+    21300134: Fantasy Crops_scaled_5x_pngcrushed_67
+    21300136: Fantasy Crops_scaled_5x_pngcrushed_68
+    21300138: Fantasy Crops_scaled_5x_pngcrushed_69
+    21300140: Fantasy Crops_scaled_5x_pngcrushed_70
+    21300142: Fantasy Crops_scaled_5x_pngcrushed_71
+    21300144: Fantasy Crops_scaled_5x_pngcrushed_72
+    21300146: Fantasy Crops_scaled_5x_pngcrushed_73
+    21300148: Fantasy Crops_scaled_5x_pngcrushed_74
+    21300150: Fantasy Crops_scaled_5x_pngcrushed_75
+    21300152: Fantasy Crops_scaled_5x_pngcrushed_76
+    21300154: Fantasy Crops_scaled_5x_pngcrushed_77
+    21300156: Fantasy Crops_scaled_5x_pngcrushed_78
+    21300158: Fantasy Crops_scaled_5x_pngcrushed_79
+    21300160: Fantasy Crops_scaled_5x_pngcrushed_80
+    21300162: Fantasy Crops_scaled_5x_pngcrushed_81
+    21300164: Fantasy Crops_scaled_5x_pngcrushed_82
+    21300166: Fantasy Crops_scaled_5x_pngcrushed_83
+    21300168: Fantasy Crops_scaled_5x_pngcrushed_84
+    21300170: Fantasy Crops_scaled_5x_pngcrushed_85
+    21300172: Fantasy Crops_scaled_5x_pngcrushed_86
+    21300174: Fantasy Crops_scaled_5x_pngcrushed_87
+    21300176: Fantasy Crops_scaled_5x_pngcrushed_88
+    21300178: Fantasy Crops_scaled_5x_pngcrushed_89
+    21300180: Fantasy Crops_scaled_5x_pngcrushed_90
+    21300182: Fantasy Crops_scaled_5x_pngcrushed_91
+    21300184: Fantasy Crops_scaled_5x_pngcrushed_92
+    21300186: Fantasy Crops_scaled_5x_pngcrushed_93
+    21300188: Fantasy Crops_scaled_5x_pngcrushed_94
+    21300190: Fantasy Crops_scaled_5x_pngcrushed_95
+    21300192: Fantasy Crops_scaled_5x_pngcrushed_96
+    21300194: Fantasy Crops_scaled_5x_pngcrushed_97
+    21300196: Fantasy Crops_scaled_5x_pngcrushed_98
+    21300198: Fantasy Crops_scaled_5x_pngcrushed_99
+    21300200: Fantasy Crops_scaled_5x_pngcrushed_100
+    21300202: Fantasy Crops_scaled_5x_pngcrushed_101
+    21300204: Fantasy Crops_scaled_5x_pngcrushed_102
+    21300206: Fantasy Crops_scaled_5x_pngcrushed_103
+    21300208: Fantasy Crops_scaled_5x_pngcrushed_104
+    21300210: Fantasy Crops_scaled_5x_pngcrushed_105
+    21300212: Fantasy Crops_scaled_5x_pngcrushed_106
+    21300214: Fantasy Crops_scaled_5x_pngcrushed_107
+    21300216: Fantasy Crops_scaled_5x_pngcrushed_108
+    21300218: Fantasy Crops_scaled_5x_pngcrushed_109
+    21300220: Fantasy Crops_scaled_5x_pngcrushed_110
+    21300222: pumpkin_1
+    21300224: carrot_0
+    21300226: carrot_1
+    21300228: carrot_2
+    21300230: Fantasy Crops_4
+    21300232: Fantasy Crops_5
+    21300234: Fantasy Crops_6
+    21300236: Fantasy Crops_7
+    21300238: Fantasy Crops_8
+    21300240: pumpkin_2
+    21300242: Fantasy Crops_10
+    21300244: Fantasy Crops_11
+    21300246: Fantasy Crops_12
+    21300248: Fantasy Crops_13
+    21300250: Fantasy Crops_14
+    21300252: tomato_0
+    21300254: tomato_1
+    21300256: tomato_2
+    21300258: Fantasy Crops_18
+    21300260: Fantasy Crops_19
+    21300262: Fantasy Crops_20
+    21300264: Fantasy Crops_21
+    21300266: Fantasy Crops_22
+    21300268: cabbage_0
+    21300270: cabbage_1
+    21300272: cabbage_2
+    21300274: Fantasy Crops_26
+    21300276: Fantasy Crops_27
+    21300278: Fantasy Crops_28
+    21300280: Fantasy Crops_29
+    21300282: Fantasy Crops_30
+    21300284: Fantasy Crops_31
+    21300286: Fantasy Crops_32
+    21300288: Fantasy Crops_33
+    21300290: Fantasy Crops_34
+    21300292: Fantasy Crops_35
+    21300294: Fantasy Crops_36
+    21300296: Fantasy Crops_37
+    21300298: Fantasy Crops_38
+    21300300: Fantasy Crops_39
+    21300302: Fantasy Crops_40
+    21300304: Fantasy Crops_41
+    21300306: ginseng_0
+    21300308: Fantasy Crops_43
+    21300310: ginseng_1
+    21300312: ginseng_2
+    21300314: Fantasy Crops_46
+    21300316: Fantasy Crops_47
+    21300318: Fantasy Crops_48
+    21300320: parsnip_0
+    21300322: parsnip_1
+    21300324: parsnip_2
+    21300326: Fantasy Crops_52
+    21300328: Fantasy Crops_53
+    21300330: Fantasy Crops_54
+    21300332: Fantasy Crops_55
+    21300334: Fantasy Crops_56
+    21300336: Fantasy Crops_57
+    21300338: Fantasy Crops_58
+    21300340: Fantasy Crops_59
+    21300342: Fantasy Crops_60
+    21300344: Fantasy Crops_61
+    21300346: Fantasy Crops_62
+    21300348: Fantasy Crops_63
+    21300350: broccoli_0
+    21300352: broccoli_1
+    21300354: broccoli_2
+    21300356: Fantasy Crops_67
+    21300358: Fantasy Crops_68
+    21300360: Fantasy Crops_69
+    21300362: Fantasy Crops_70
+    21300364: Fantasy Crops_71
+    21300366: Fantasy Crops_72
+    21300368: Fantasy Crops_73
+    21300370: Fantasy Crops_74
+    21300372: Fantasy Crops_75
+    21300374: Fantasy Crops_76
+    21300376: potato_0
+    21300378: potato_1
+    21300380: potato_2
+    21300382: Fantasy Crops_80
+    21300384: Fantasy Crops_81
+    21300386: Fantasy Crops_82
+    21300388: Fantasy Crops_83
+    21300390: Fantasy Crops_84
+    21300392: Fantasy Crops_85
+    21300394: Fantasy Crops_86
+    21300396: Fantasy Crops_87
+    21300398: Fantasy Crops_88
+    21300400: Fantasy Crops_89
+    21300402: Fantasy Crops_90
+    21300404: Fantasy Crops_91
+    21300406: Fantasy Crops_92
+    21300408: Fantasy Crops_93
+    21300410: Fantasy Crops_94
+    21300412: Fantasy Crops_95
+    21300414: Fantasy Crops_96
+    21300416: Fantasy Crops_97
+    21300418: Fantasy Crops_98
+    21300420: Fantasy Crops_99
+    21300422: Fantasy Crops_100
+    21300424: Fantasy Crops_101
+    21300426: Fantasy Crops_102
+    21300428: Fantasy Crops_103
+    21300430: Fantasy Crops_104
+    21300432: Fantasy Crops_105
+    21300434: Fantasy Crops_106
+    21300436: Fantasy Crops_107
+    21300438: Fantasy Crops_108
+    21300440: Fantasy Crops_109
+    21300442: Fantasy Crops_110
+    21300444: pumpkin_0
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: carrot_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 565
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 565
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 565
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pumpkin_2
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 570
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tomato_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 490
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tomato_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 490
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tomato_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 490
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cabbage_0
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 490
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cabbage_1
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 490
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cabbage_2
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 485
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ginseng_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 330
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ginseng_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 325
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ginseng_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 325
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parsnip_0
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 330
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parsnip_1
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 330
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: parsnip_2
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 330
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: broccoli_0
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 250
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: broccoli_1
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: broccoli_2
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 245
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potato_0
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 170
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potato_1
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 170
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potato_2
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 170
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pumpkin_1
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 568
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pumpkin_0
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 576
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
